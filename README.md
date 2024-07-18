@@ -181,4 +181,3 @@ We welcome contributions to this project! Please follow these steps to contribut
 For any questions or feedback, please contact us at:
 - Email: asadaftabmalik@gmail.com
 - GitHub Issues: [Issue Tracker](https://github.com/MalikAsadAftab/Realtime_Data_Streaming/issues)
-```
